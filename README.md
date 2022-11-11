@@ -1,4 +1,4 @@
-# Wiz
+# F(x)tec Pro1 X
 ![Alt text](imgs/main.jpg)
   
 |Component  |Description                     |
